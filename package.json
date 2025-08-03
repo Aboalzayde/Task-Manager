@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@welldone-software/why-did-you-render": "^10.0.1",
     "react-router-dom": "^7.7.1"
   }
 }
